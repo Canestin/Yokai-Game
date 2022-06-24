@@ -1,2 +1,2 @@
 # Yokai Game
-Développé en JAVA ! En mode console.
+Developed in JAVA ! In console mode.
