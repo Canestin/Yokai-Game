@@ -1,2 +1,2 @@
 # YokaiProject
-Développé JAVA, en mode console.
+Développé en JAVA ! En mode console.
